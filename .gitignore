@@ -1,0 +1,38 @@
+# Arquivos e diretórios gerados pelo Visual Studio
+.vs/
+bin/
+obj/
+
+# Arquivos de build
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.exe.config
+*.obj
+
+# Arquivos temporários
+*.log
+*.user
+*.vscode/
+
+# Arquivos de configuração específicos do usuário
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Arquivos de cache do ReSharper
+_ReSharper*/
+
+# Dependências geradas pelo NuGet
+packages/
+*.nupkg
+# O diretório do NuGet
+*.CodeLensCache
+
+# Arquivos de configuração
+*.config
+
+# Outros
+Thumbs.db
+*.DS_Store
